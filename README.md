@@ -2,6 +2,7 @@
 you can with this app create infinity discord token
 ___
 # preview
+![Token Builder](image.jpg)
 ___
 # install
 - download this `repository`
