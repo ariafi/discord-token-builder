@@ -2,7 +2,7 @@
 you can with this app create infinity discord token
 ___
 # preview
-![Token Builder](image.jpg)
+![Token Builder](https://github.com/Hoseinfi/discord-token-builder/blob/main/image.png)
 ___
 # install
 - download this `repository`
