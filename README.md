@@ -1,10 +1,10 @@
-# discord-token-builder
+# Description
 you can with this app create infinity discord token
 ___
-# preview
+# Preview
 ![Token Builder](https://github.com/Hoseinfi/discord-token-builder/blob/main/image.png)
 ___
-# install
+# Install
 - download this `repository`
 - extract this
 - open file `install.bat` for install packages
