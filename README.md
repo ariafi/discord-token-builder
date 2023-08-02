@@ -11,4 +11,4 @@ ___
 - open `index.py`
 - enter a number :)
 ___
-Please Join My Channel : https://discord.gg/qeFXMbGqt4
+my discord server : [JOIN](https://discord.gg/tckXBhv3Rw)
