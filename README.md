@@ -1,6 +1,10 @@
 # Description
 you can with this app create infinity discord token
 ___
+# Features
+- Easy
+- Fast
+___
 # Preview
 ![Token Builder](https://github.com/Hoseinfi/discord-token-builder/blob/main/image.png)
 ___
